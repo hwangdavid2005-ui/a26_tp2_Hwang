@@ -1,0 +1,1385 @@
+{
+    "animaux": {
+        "theme": {
+            "fr": "Animaux",
+            "en": "Animals",
+            "es": "Animales"
+        },
+        "produits": [
+            {
+                "id": "ts0001",
+                "nom": {
+                    "fr": "Cute comme un poisson tropical",
+                    "en": "Cute as a Tropical Fish",
+                    "es": "Lindo como un pez tropical"
+                },
+                "dac": "2020-04-25",
+                "ventes": 34,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0004",
+                "nom": {
+                    "fr": "Monstre douillet",
+                    "en": "Fluffy Monster",
+                    "es": "Monstruo esponjoso"
+                },
+                "dac": "2023-08-12",
+                "ventes": 123,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0006",
+                "nom": {
+                    "fr": "Camarade basque",
+                    "en": "Basque Buddy",
+                    "es": "Amigo vasco"
+                },
+                "dac": "2023-02-27",
+                "ventes": 20,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0007",
+                "nom": {
+                    "fr": "Chaton moteur",
+                    "en": "Engine Kitten",
+                    "es": "Gatito motor"
+                },
+                "dac": "2024-10-01",
+                "ventes": 12,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0009",
+                "nom": {
+                    "fr": "Renardcoptère",
+                    "en": "Foxcopter",
+                    "es": "Zorro helicóptero"
+                },
+                "dac": "2023-05-04",
+                "ventes": 56,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0013",
+                "nom": {
+                    "fr": "L’outre d’outremer",
+                    "en": "Overseas Otter",
+                    "es": "Nutria de ultramar"
+                },
+                "dac": "2023-10-11",
+                "ventes": 260,
+                "prix": 15.95
+            },
+            {
+                "id": "ts0022",
+                "nom": {
+                    "fr": "Pingouin skateur",
+                    "en": "Skater Penguin",
+                    "es": "Pingüino skater"
+                },
+                "dac": "2025-05-20",
+                "ventes": 9,
+                "prix": 21.95
+            },
+            {
+                "id": "ts0027",
+                "nom": {
+                    "fr": "Axolotl joyeux",
+                    "en": "Happy Axolotl",
+                    "es": "Ajolote feliz"
+                },
+                "dac": "2022-06-11",
+                "ventes": 294,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0029",
+                "nom": {
+                    "fr": "Lapin en vacances",
+                    "en": "Vacation Bunny",
+                    "es": "Conejo de vacaciones"
+                },
+                "dac": "2026-03-18",
+                "ventes": 414,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0035",
+                "nom": {
+                    "fr": "Panda rêveur",
+                    "en": "Dreaming Panda",
+                    "es": "Panda soñador"
+                },
+                "dac": "2021-05-20",
+                "ventes": 427,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0036",
+                "nom": {
+                    "fr": "Lama électrique",
+                    "en": "Electric Llama",
+                    "es": "Llama eléctrica"
+                },
+                "dac": "2022-08-06",
+                "ventes": 218,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0058",
+                "nom": {
+                    "fr": "Baleine volante",
+                    "en": "Flying Whale",
+                    "es": "Ballena voladora"
+                },
+                "dac": "2021-10-25",
+                "ventes": 314,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0059",
+                "nom": {
+                    "fr": "Chat cosmique",
+                    "en": "Cosmic Cat",
+                    "es": "Gato cósmico"
+                },
+                "dac": "2026-09-21",
+                "ventes": 86,
+                "prix": 21.95
+            },
+            {
+                "id": "ts0063",
+                "nom": {
+                    "fr": "Tigre pastel",
+                    "en": "Pastel Tiger",
+                    "es": "Tigre pastel"
+                },
+                "dac": "2023-11-07",
+                "ventes": 216,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0070",
+                "nom": {
+                    "fr": "Renard astral",
+                    "en": "Astral Fox",
+                    "es": "Zorro astral"
+                },
+                "dac": "2025-07-06",
+                "ventes": 402,
+                "prix": 16.5
+            },
+            {
+                "id": "ts0085",
+                "nom": {
+                    "fr": "Hibou nocturne",
+                    "en": "Night Owl",
+                    "es": "Búho nocturno"
+                },
+                "dac": "2025-12-03",
+                "ventes": 220,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0089",
+                "nom": {
+                    "fr": "Ours polaire disco",
+                    "en": "Disco Polar Bear",
+                    "es": "Oso polar disco"
+                },
+                "dac": "2023-01-16",
+                "ventes": 295,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0096",
+                "nom": {
+                    "fr": "Koala zen",
+                    "en": "Zen Koala",
+                    "es": "Koala zen"
+                },
+                "dac": "2022-01-05",
+                "ventes": 356,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0098",
+                "nom": {
+                    "fr": "Grenouille royale",
+                    "en": "Royal Frog",
+                    "es": "Rana real"
+                },
+                "dac": "2023-08-26",
+                "ventes": 238,
+                "prix": 14.95
+            },
+            {
+                "id": "ts0102",
+                "nom": {
+                    "fr": "Loutre curieuse",
+                    "en": "Curious Otter",
+                    "es": "Nutria curiosa"
+                },
+                "dac": "2023-03-26",
+                "ventes": 365,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0116",
+                "nom": {
+                    "fr": "Raton laveur artiste",
+                    "en": "Artist Raccoon",
+                    "es": "Mapache artista"
+                },
+                "dac": "2026-04-23",
+                "ventes": 426,
+                "prix": 25.95
+            }
+        ]
+    },
+    "inusite": {
+        "theme": {
+            "fr": "Inusité",
+            "en": "Unusual",
+            "es": "Insólito"
+        },
+        "produits": [
+            {
+                "id": "ts0002",
+                "nom": {
+                    "fr": "Fauteuil illégal",
+                    "en": "Armchair Avocado",
+                    "es": "Sillón ilegal"
+                },
+                "dac": "2024-06-20",
+                "ventes": 6,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0014",
+                "nom": {
+                    "fr": "Cerveau volant",
+                    "en": "Flying Brain",
+                    "es": "Cerebro volador"
+                },
+                "dac": "2023-08-08",
+                "ventes": 154,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0019",
+                "nom": {
+                    "fr": "Beau bébébot",
+                    "en": "Cute Babybot",
+                    "es": "Adorable bebé robot"
+                },
+                "dac": "2024-09-05",
+                "ventes": 2,
+                "prix": 26.5
+            },
+            {
+                "id": "ts0020",
+                "nom": {
+                    "fr": "Grille-pain couac-couac",
+                    "en": "Quack Quack Toaster",
+                    "es": "Tostadora cuac cuac"
+                },
+                "dac": "2024-10-01",
+                "ventes": 10,
+                "prix": 20
+            },
+            {
+                "id": "ts0023",
+                "nom": {
+                    "fr": "Champignon mécanique",
+                    "en": "Mechanical Mushroom",
+                    "es": "Hongo mecánico"
+                },
+                "dac": "2026-07-12",
+                "ventes": 222,
+                "prix": 32.0
+            },
+            {
+                "id": "ts0040",
+                "nom": {
+                    "fr": "Biscuit mystérieux",
+                    "en": "Mysterious Cookie",
+                    "es": "Galleta misteriosa"
+                },
+                "dac": "2021-03-08",
+                "ventes": 363,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0048",
+                "nom": {
+                    "fr": "Horloge endormie",
+                    "en": "Sleepy Clock",
+                    "es": "Reloj dormilón"
+                },
+                "dac": "2024-09-24",
+                "ventes": 30,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0053",
+                "nom": {
+                    "fr": "Pizza volante",
+                    "en": "Flying Pizza",
+                    "es": "Pizza voladora"
+                },
+                "dac": "2023-12-17",
+                "ventes": 152,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0061",
+                "nom": {
+                    "fr": "Nuage grincheux",
+                    "en": "Grumpy Cloud",
+                    "es": "Nube gruñona"
+                },
+                "dac": "2023-11-28",
+                "ventes": 408,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0062",
+                "nom": {
+                    "fr": "Parapluie invisible",
+                    "en": "Invisible Umbrella",
+                    "es": "Paraguas invisible"
+                },
+                "dac": "2025-12-04",
+                "ventes": 356,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0071",
+                "nom": {
+                    "fr": "Banane détective",
+                    "en": "Detective Banana",
+                    "es": "Banana detective"
+                },
+                "dac": "2022-11-17",
+                "ventes": 379,
+                "prix": 32.0
+            },
+            {
+                "id": "ts0077",
+                "nom": {
+                    "fr": "Tasse intergalactique",
+                    "en": "Intergalactic Mug",
+                    "es": "Taza intergaláctica"
+                },
+                "dac": "2021-06-07",
+                "ventes": 47,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0079",
+                "nom": {
+                    "fr": "Crayon rebelle",
+                    "en": "Rebel Pencil",
+                    "es": "Lápiz rebelde"
+                },
+                "dac": "2021-04-19",
+                "ventes": 248,
+                "prix": 14.95
+            },
+            {
+                "id": "ts0080",
+                "nom": {
+                    "fr": "Patate sur Mars",
+                    "en": "Potato on Mars",
+                    "es": "Patata en Marte"
+                },
+                "dac": "2025-12-03",
+                "ventes": 162,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0091",
+                "nom": {
+                    "fr": "Cactus en pantoufles",
+                    "en": "Slipper Cactus",
+                    "es": "Cactus con pantuflas"
+                },
+                "dac": "2026-02-06",
+                "ventes": 228,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0104",
+                "nom": {
+                    "fr": "Toast héroïque",
+                    "en": "Heroic Toast",
+                    "es": "Tostada heroica"
+                },
+                "dac": "2021-06-26",
+                "ventes": 170,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0112",
+                "nom": {
+                    "fr": "Télévision magique",
+                    "en": "Magic Television",
+                    "es": "Televisión mágica"
+                },
+                "dac": "2022-08-31",
+                "ventes": 257,
+                "prix": 16.5
+            },
+            {
+                "id": "ts0118",
+                "nom": {
+                    "fr": "Cornichon ninja",
+                    "en": "Ninja Pickle",
+                    "es": "Pepinillo ninja"
+                },
+                "dac": "2023-02-09",
+                "ventes": 105,
+                "prix": 14.95
+            },
+            {
+                "id": "ts0120",
+                "nom": {
+                    "fr": "Robot à moustache",
+                    "en": "Mustached Robot",
+                    "es": "Robot con bigote"
+                },
+                "dac": "2023-08-07",
+                "ventes": 13,
+                "prix": 19.75
+            }
+        ]
+    },
+    "sport": {
+        "theme": {
+            "fr": "Sport",
+            "en": "Sport",
+            "es": "Deportes"
+        },
+        "produits": [
+            {
+                "id": "ts0003",
+                "nom": {
+                    "fr": "Un dunk dans l'univers",
+                    "en": "A Dunk in the Universe",
+                    "es": "Un mate en el universo"
+                },
+                "dac": "2024-01-02",
+                "ventes": 21,
+                "prix": 22.75
+            },
+            {
+                "id": "ts0015",
+                "nom": {
+                    "fr": "Basket courbe",
+                    "en": "Curved Basketball",
+                    "es": "Baloncesto curvo"
+                },
+                "dac": "2023-09-04",
+                "ventes": 158,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0016",
+                "nom": {
+                    "fr": "pizza, vino e calcio",
+                    "en": "Pizza, Wine and Soccer",
+                    "es": "Pizza, vino y fútbol"
+                },
+                "dac": "2024-07-18",
+                "ventes": 40,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0031",
+                "nom": {
+                    "fr": "Montagne à vélo",
+                    "en": "Mountain Ride",
+                    "es": "Paseo en bicicleta por la montaña"
+                },
+                "dac": "2024-11-10",
+                "ventes": 350,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0033",
+                "nom": {
+                    "fr": "Saut vers les étoiles",
+                    "en": "Jump to the Stars",
+                    "es": "Salto hacia las estrellas"
+                },
+                "dac": "2023-05-13",
+                "ventes": 165,
+                "prix": 32.0
+            },
+            {
+                "id": "ts0044",
+                "nom": {
+                    "fr": "Panier de feu",
+                    "en": "Fire Dunk",
+                    "es": "Mate de fuego"
+                },
+                "dac": "2023-10-11",
+                "ventes": 342,
+                "prix": 21.95
+            },
+            {
+                "id": "ts0045",
+                "nom": {
+                    "fr": "Ballon électrique",
+                    "en": "Electric Ball",
+                    "es": "Balón eléctrico"
+                },
+                "dac": "2023-04-09",
+                "ventes": 327,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0046",
+                "nom": {
+                    "fr": "Escalade sauvage",
+                    "en": "Wild Climb",
+                    "es": "Escalada salvaje"
+                },
+                "dac": "2021-01-09",
+                "ventes": 439,
+                "prix": 16.5
+            },
+            {
+                "id": "ts0054",
+                "nom": {
+                    "fr": "Course au lever du soleil",
+                    "en": "Sunrise Run",
+                    "es": "Carrera al amanecer"
+                },
+                "dac": "2025-12-03",
+                "ventes": 47,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0060",
+                "nom": {
+                    "fr": "Sprint cosmique",
+                    "en": "Cosmic Sprint",
+                    "es": "Esprint cósmico"
+                },
+                "dac": "2022-09-15",
+                "ventes": 386,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0067",
+                "nom": {
+                    "fr": "Surf rétro",
+                    "en": "Retro Surf",
+                    "es": "Surf retro"
+                },
+                "dac": "2023-05-28",
+                "ventes": 114,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0081",
+                "nom": {
+                    "fr": "Skate de minuit",
+                    "en": "Midnight Skate",
+                    "es": "Skate de medianoche"
+                },
+                "dac": "2022-09-08",
+                "ventes": 370,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0083",
+                "nom": {
+                    "fr": "Vague parfaite",
+                    "en": "Perfect Wave",
+                    "es": "Ola perfecta"
+                },
+                "dac": "2025-09-10",
+                "ventes": 345,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0099",
+                "nom": {
+                    "fr": "Gardien de but lunaire",
+                    "en": "Lunar Goalkeeper",
+                    "es": "Portero lunar"
+                },
+                "dac": "2023-07-03",
+                "ventes": 429,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0100",
+                "nom": {
+                    "fr": "Vélo dans les nuages",
+                    "en": "Cloud Cycling",
+                    "es": "Bicicleta entre las nubes"
+                },
+                "dac": "2025-03-26",
+                "ventes": 444,
+                "prix": 32.0
+            },
+            {
+                "id": "ts0101",
+                "nom": {
+                    "fr": "Planche libre",
+                    "en": "Free Ride",
+                    "es": "Paseo libre"
+                },
+                "dac": "2024-07-26",
+                "ventes": 446,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0105",
+                "nom": {
+                    "fr": "Match sous la pluie",
+                    "en": "Rainy Match",
+                    "es": "Partido bajo la lluvia"
+                },
+                "dac": "2021-05-22",
+                "ventes": 385,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0110",
+                "nom": {
+                    "fr": "Tennis néon",
+                    "en": "Neon Tennis",
+                    "es": "Tenis neón"
+                },
+                "dac": "2023-12-06",
+                "ventes": 248,
+                "prix": 25.95
+            }
+        ]
+    },
+    "nature": {
+        "theme": {
+            "fr": "Nature",
+            "en": "Nature",
+            "es": "Naturaleza"
+        },
+        "produits": [
+            {
+                "id": "ts0005",
+                "nom": {
+                    "fr": "Bleu comme une orange",
+                    "en": "Blue as an Orange",
+                    "es": "Azul como una naranja"
+                },
+                "dac": "2023-12-25",
+                "ventes": 325,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0008",
+                "nom": {
+                    "fr": "Et vogue le navire",
+                    "en": "And the Ship Sails",
+                    "es": "Y el barco navega"
+                },
+                "dac": "2020-12-21",
+                "ventes": 293,
+                "prix": 15.5
+            },
+            {
+                "id": "ts0010",
+                "nom": {
+                    "fr": "Par une nuit d'été sur Mars",
+                    "en": "A Summer Night on Mars",
+                    "es": "Una noche de verano en Marte"
+                },
+                "dac": "2024-01-30",
+                "ventes": 48,
+                "prix": 22
+            },
+            {
+                "id": "ts0011",
+                "nom": {
+                    "fr": "Le déjeuner pointilliste",
+                    "en": "Pointillist Breakfast",
+                    "es": "Desayuno puntillista"
+                },
+                "dac": "2024-02-21",
+                "ventes": 55,
+                "prix": 21
+            },
+            {
+                "id": "ts0012",
+                "nom": {
+                    "fr": "Portrait au tournesol",
+                    "en": "Sunflower Portrait",
+                    "es": "Retrato con girasol"
+                },
+                "dac": "2024-03-26",
+                "ventes": 24,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0017",
+                "nom": {
+                    "fr": "Reflexion dans le lac",
+                    "en": "Reflection in the Lake",
+                    "es": "Reflejo en el lago"
+                },
+                "dac": "2024-07-10",
+                "ventes": 12,
+                "prix": 21.5
+            },
+            {
+                "id": "ts0018",
+                "nom": {
+                    "fr": "Levé de soleil en automne",
+                    "en": "Autumn Sunrise",
+                    "es": "Amanecer otoñal"
+                },
+                "dac": "2024-08-28",
+                "ventes": 5,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0025",
+                "nom": {
+                    "fr": "Montagnes roses",
+                    "en": "Pink Mountains",
+                    "es": "Montañas rosas"
+                },
+                "dac": "2023-10-02",
+                "ventes": 255,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0026",
+                "nom": {
+                    "fr": "Pluie de printemps",
+                    "en": "Spring Rain",
+                    "es": "Lluvia de primavera"
+                },
+                "dac": "2021-10-31",
+                "ventes": 5,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0032",
+                "nom": {
+                    "fr": "Fleurs du désert",
+                    "en": "Desert Flowers",
+                    "es": "Flores del desierto"
+                },
+                "dac": "2025-08-12",
+                "ventes": 202,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0038",
+                "nom": {
+                    "fr": "Coucher de soleil violet",
+                    "en": "Purple Sunset",
+                    "es": "Atardecer violeta"
+                },
+                "dac": "2026-01-06",
+                "ventes": 395,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0039",
+                "nom": {
+                    "fr": "Aurore boréale",
+                    "en": "Northern Lights",
+                    "es": "Aurora boreal"
+                },
+                "dac": "2026-02-07",
+                "ventes": 429,
+                "prix": 21.95
+            },
+            {
+                "id": "ts0057",
+                "nom": {
+                    "fr": "Dunes bleues",
+                    "en": "Blue Dunes",
+                    "es": "Dunas azules"
+                },
+                "dac": "2026-01-16",
+                "ventes": 68,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0064",
+                "nom": {
+                    "fr": "Soleil de minuit",
+                    "en": "Midnight Sun",
+                    "es": "Sol de medianoche"
+                },
+                "dac": "2022-05-31",
+                "ventes": 159,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0068",
+                "nom": {
+                    "fr": "Cascade cachée",
+                    "en": "Hidden Waterfall",
+                    "es": "Cascada escondida"
+                },
+                "dac": "2022-08-28",
+                "ventes": 442,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0069",
+                "nom": {
+                    "fr": "Forêt brumeuse",
+                    "en": "Misty Forest",
+                    "es": "Bosque brumoso"
+                },
+                "dac": "2023-07-13",
+                "ventes": 426,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0076",
+                "nom": {
+                    "fr": "Arbre solitaire",
+                    "en": "Lonely Tree",
+                    "es": "Árbol solitario"
+                },
+                "dac": "2022-12-09",
+                "ventes": 28,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0086",
+                "nom": {
+                    "fr": "Jardin secret",
+                    "en": "Secret Garden",
+                    "es": "Jardín secreto"
+                },
+                "dac": "2021-07-08",
+                "ventes": 158,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0090",
+                "nom": {
+                    "fr": "Océan tranquille",
+                    "en": "Quiet Ocean",
+                    "es": "Océano tranquilo"
+                },
+                "dac": "2023-08-17",
+                "ventes": 110,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0107",
+                "nom": {
+                    "fr": "Horizon d’automne",
+                    "en": "Autumn Horizon",
+                    "es": "Horizonte otoñal"
+                },
+                "dac": "2026-08-19",
+                "ventes": 414,
+                "prix": 16.5
+            },
+            {
+                "id": "ts0111",
+                "nom": {
+                    "fr": "Vallée dorée",
+                    "en": "Golden Valley",
+                    "es": "Valle dorado"
+                },
+                "dac": "2022-08-24",
+                "ventes": 208,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0115",
+                "nom": {
+                    "fr": "Lac de cristal",
+                    "en": "Crystal Lake",
+                    "es": "Lago de cristal"
+                },
+                "dac": "2022-07-11",
+                "ventes": 40,
+                "prix": 19.75
+            }
+        ]
+    },
+    "jv": {
+        "theme": {
+            "fr": "Jeux vidéo",
+            "en": "Video Games",
+            "es": "Videojuegos"
+        },
+        "produits": [
+            {
+                "id": "ts0028",
+                "nom": {
+                    "fr": "Arcade de nuit",
+                    "en": "Night Arcade",
+                    "es": "Arcade nocturno"
+                },
+                "dac": "2023-12-17",
+                "ventes": 406,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0034",
+                "nom": {
+                    "fr": "Niveau bonus",
+                    "en": "Bonus Level",
+                    "es": "Nivel de bonificación"
+                },
+                "dac": "2025-03-13",
+                "ventes": 45,
+                "prix": 14.95
+            },
+            {
+                "id": "ts0041",
+                "nom": {
+                    "fr": "Héros 8 bits",
+                    "en": "8-Bit Hero",
+                    "es": "Héroe de 8 bits"
+                },
+                "dac": "2025-02-05",
+                "ventes": 357,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0042",
+                "nom": {
+                    "fr": "Monde virtuel",
+                    "en": "Virtual World",
+                    "es": "Mundo virtual"
+                },
+                "dac": "2024-05-12",
+                "ventes": 394,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0047",
+                "nom": {
+                    "fr": "Potion de vie",
+                    "en": "Health Potion",
+                    "es": "Poción de vida"
+                },
+                "dac": "2025-10-06",
+                "ventes": 101,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0052",
+                "nom": {
+                    "fr": "Dragon pixelisé",
+                    "en": "Pixel Dragon",
+                    "es": "Dragón pixelado"
+                },
+                "dac": "2024-01-26",
+                "ventes": 168,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0056",
+                "nom": {
+                    "fr": "Boss final",
+                    "en": "Final Boss",
+                    "es": "Jefe final"
+                },
+                "dac": "2024-04-28",
+                "ventes": 378,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0066",
+                "nom": {
+                    "fr": "Quête secondaire",
+                    "en": "Side Quest",
+                    "es": "Misión secundaria"
+                },
+                "dac": "2024-06-17",
+                "ventes": 86,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0073",
+                "nom": {
+                    "fr": "Portail secret",
+                    "en": "Secret Portal",
+                    "es": "Portal secreto"
+                },
+                "dac": "2024-08-24",
+                "ventes": 291,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0084",
+                "nom": {
+                    "fr": "Pixel aventurier",
+                    "en": "Adventure Pixel",
+                    "es": "Píxel aventurero"
+                },
+                "dac": "2024-12-24",
+                "ventes": 208,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0088",
+                "nom": {
+                    "fr": "Épée légendaire",
+                    "en": "Legendary Sword",
+                    "es": "Espada legendaria"
+                },
+                "dac": "2025-04-18",
+                "ventes": 200,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0092",
+                "nom": {
+                    "fr": "Manette galactique",
+                    "en": "Galactic Controller",
+                    "es": "Mando galáctico"
+                },
+                "dac": "2022-01-13",
+                "ventes": 131,
+                "prix": 21.95
+            },
+            {
+                "id": "ts0094",
+                "nom": {
+                    "fr": "Écran de victoire",
+                    "en": "Victory Screen",
+                    "es": "Pantalla de victoria"
+                },
+                "dac": "2021-04-01",
+                "ventes": 121,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0095",
+                "nom": {
+                    "fr": "Manette rétro",
+                    "en": "Retro Controller",
+                    "es": "Mando retro"
+                },
+                "dac": "2023-09-28",
+                "ventes": 337,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0097",
+                "nom": {
+                    "fr": "Donjon mystérieux",
+                    "en": "Mysterious Dungeon",
+                    "es": "Mazmorra misteriosa"
+                },
+                "dac": "2023-12-22",
+                "ventes": 404,
+                "prix": 24.5
+            }
+        ]
+    },
+    "musique": {
+        "theme": {
+            "fr": "Musique",
+            "en": "Music",
+            "es": "Música"
+        },
+        "produits": [
+            {
+                "id": "ts0030",
+                "nom": {
+                    "fr": "Jazz de minuit",
+                    "en": "Midnight Jazz",
+                    "es": "Jazz de medianoche"
+                },
+                "dac": "2024-02-07",
+                "ventes": 214,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0049",
+                "nom": {
+                    "fr": "Synthé néon",
+                    "en": "Neon Synth",
+                    "es": "Sintetizador neón"
+                },
+                "dac": "2021-07-03",
+                "ventes": 257,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0050",
+                "nom": {
+                    "fr": "Rythme de la ville",
+                    "en": "City Rhythm",
+                    "es": "Ritmo de la ciudad"
+                },
+                "dac": "2023-09-22",
+                "ventes": 416,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0072",
+                "nom": {
+                    "fr": "Micro vintage",
+                    "en": "Vintage Microphone",
+                    "es": "Micrófono vintage"
+                },
+                "dac": "2023-12-27",
+                "ventes": 61,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0074",
+                "nom": {
+                    "fr": "Vinyle doré",
+                    "en": "Golden Vinyl",
+                    "es": "Vinilo dorado"
+                },
+                "dac": "2026-03-25",
+                "ventes": 178,
+                "prix": 16.5
+            },
+            {
+                "id": "ts0075",
+                "nom": {
+                    "fr": "Onde sonore",
+                    "en": "Sound Wave",
+                    "es": "Onda sonora"
+                },
+                "dac": "2026-09-24",
+                "ventes": 13,
+                "prix": 17.95
+            },
+            {
+                "id": "ts0078",
+                "nom": {
+                    "fr": "Piano sous la pluie",
+                    "en": "Rainy Piano",
+                    "es": "Piano bajo la lluvia"
+                },
+                "dac": "2021-12-16",
+                "ventes": 412,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0087",
+                "nom": {
+                    "fr": "Mélodie lunaire",
+                    "en": "Lunar Melody",
+                    "es": "Melodía lunar"
+                },
+                "dac": "2026-08-21",
+                "ventes": 63,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0093",
+                "nom": {
+                    "fr": "Concert étoilé",
+                    "en": "Starry Concert",
+                    "es": "Concierto estrellado"
+                },
+                "dac": "2024-07-24",
+                "ventes": 450,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0103",
+                "nom": {
+                    "fr": "Disco tropical",
+                    "en": "Tropical Disco",
+                    "es": "Disco tropical"
+                },
+                "dac": "2023-03-06",
+                "ventes": 250,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0108",
+                "nom": {
+                    "fr": "Batterie sauvage",
+                    "en": "Wild Drums",
+                    "es": "Batería salvaje"
+                },
+                "dac": "2023-02-28",
+                "ventes": 427,
+                "prix": 22.95
+            },
+            {
+                "id": "ts0113",
+                "nom": {
+                    "fr": "Casque rétro",
+                    "en": "Retro Headphones",
+                    "es": "Auriculares retro"
+                },
+                "dac": "2022-09-17",
+                "ventes": 313,
+                "prix": 16.5
+            },
+            {
+                "id": "ts0114",
+                "nom": {
+                    "fr": "Basse électrique",
+                    "en": "Electric Bass",
+                    "es": "Bajo eléctrico"
+                },
+                "dac": "2025-03-10",
+                "ventes": 54,
+                "prix": 24.5
+            },
+            {
+                "id": "ts0117",
+                "nom": {
+                    "fr": "Guitare solaire",
+                    "en": "Solar Guitar",
+                    "es": "Guitarra solar"
+                },
+                "dac": "2023-09-18",
+                "ventes": 319,
+                "prix": 25.95
+            },
+            {
+                "id": "ts0119",
+                "nom": {
+                    "fr": "Notes en liberté",
+                    "en": "Free Notes",
+                    "es": "Notas en libertad"
+                },
+                "dac": "2026-02-12",
+                "ventes": 173,
+                "prix": 24.5
+            }
+        ]
+    },
+    "espace": {
+        "theme": {
+            "fr": "Espace",
+            "en": "Space",
+            "es": "Espacio"
+        },
+        "produits": [
+            {
+                "id": "ts0021",
+                "nom": {
+                    "fr": "Fusée rétro",
+                    "en": "Retro Rocket",
+                    "es": "Cohete retro"
+                },
+                "dac": "2024-11-02",
+                "ventes": 5,
+                "prix": 14.95
+            },
+            {
+                "id": "ts0024",
+                "nom": {
+                    "fr": "Station orbitale",
+                    "en": "Orbital Station",
+                    "es": "Estación orbital"
+                },
+                "dac": "2025-02-16",
+                "ventes": 58,
+                "prix": 32.0
+            },
+            {
+                "id": "ts0037",
+                "nom": {
+                    "fr": "Comète dorée",
+                    "en": "Golden Comet",
+                    "es": "Cometa dorado"
+                },
+                "dac": "2024-03-16",
+                "ventes": 319,
+                "prix": 29.99
+            },
+            {
+                "id": "ts0043",
+                "nom": {
+                    "fr": "Planète turquoise",
+                    "en": "Turquoise Planet",
+                    "es": "Planeta turquesa"
+                },
+                "dac": "2022-07-15",
+                "ventes": 20,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0051",
+                "nom": {
+                    "fr": "Nébuleuse bleue",
+                    "en": "Blue Nebula",
+                    "es": "Nebulosa azul"
+                },
+                "dac": "2024-07-04",
+                "ventes": 162,
+                "prix": 21.95
+            },
+            {
+                "id": "ts0055",
+                "nom": {
+                    "fr": "Anneaux de Saturne",
+                    "en": "Saturn Rings",
+                    "es": "Anillos de Saturno"
+                },
+                "dac": "2023-11-05",
+                "ventes": 68,
+                "prix": 20.5
+            },
+            {
+                "id": "ts0065",
+                "nom": {
+                    "fr": "Lune violette",
+                    "en": "Purple Moon",
+                    "es": "Luna violeta"
+                },
+                "dac": "2023-12-17",
+                "ventes": 144,
+                "prix": 19.75
+            },
+            {
+                "id": "ts0082",
+                "nom": {
+                    "fr": "Galaxie rose",
+                    "en": "Pink Galaxy",
+                    "es": "Galaxia rosa"
+                },
+                "dac": "2022-06-08",
+                "ventes": 386,
+                "prix": 27.5
+            },
+            {
+                "id": "ts0106",
+                "nom": {
+                    "fr": "Voyage stellaire",
+                    "en": "Stellar Journey",
+                    "es": "Viaje estelar"
+                },
+                "dac": "2023-07-21",
+                "ventes": 166,
+                "prix": 14.95
+            },
+            {
+                "id": "ts0109",
+                "nom": {
+                    "fr": "Astronaute rêveur",
+                    "en": "Dreaming Astronaut",
+                    "es": "Astronauta soñador"
+                },
+                "dac": "2023-06-11",
+                "ventes": 203,
+                "prix": 24.5
+            }
+        ]
+    }
+}

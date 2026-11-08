@@ -1,0 +1,86 @@
+
+{
+    "entete": {
+        "logoAlt": "Inicio",
+        "recherchePlaceholder": "Buscar",
+        "menuTeeshirts": "Camisetas",
+        "menuCasquettes": "Gorras",
+        "menuHoodies": "Sudaderas",
+        "menuAide": "Ayuda",
+        "menuNous": "Sobre nosotros"
+    },
+    "pied2page": {
+        "titreSectionAchats": "Tus compras",
+        "lienFaq": "Preguntas frecuentes",
+        "lienLivraison": "Entrega de tu paquete",
+        "lienConditions": "Condiciones de venta",
+        "lienConfid": "Política de privacidad",
+        "titreSectionCompagnie": "Sobre teeTIM",
+        "lienCompagnie": "La empresa",
+        "lienEquipe": "El equipo",
+        "lienEmplois": "Empleos",
+        "titreSectionContact": "Contáctanos",
+        "etiquetteTel": "Línea gratuita: ",
+        "etiquetteCourriel": "Correo electrónico: ",
+        "droits": "Todos los derechos reservados, teeTIM"
+    },
+    "accueil": {
+        "metaTitre": "teeTIM // fibra natural ... diseño artificial",
+        "metaDesc": "Página de inicio de una marca de ropa 100% fabricada en Quebec, diseñada por estudiantes de TIM con ayuda de inteligencia artificial y elaborada con fibras 100% naturales y orgánicas.",
+        "heroTitre": "Camisetas, sudaderas y gorras fabricadas en Quebec 💯",
+        "heroSousTitre": "Diseñadas en TIM con ❤️",
+        "heroSousTitre2": "/** con un poquito de ayuda de DALL-E 😉 **/",
+        "para1": "Hoy en día, la camiseta es una prenda imprescindible en el armario de todos. En una época en la que la cuestión ambiental es más importante que nunca, preferimos las camisetas fabricadas en Quebec para reducir el impacto ambiental y apoyar la artesanía local.",
+        "para2": "Camisetas con cuello en V, cuello redondo, holgadas o ajustadas, de manga corta o larga para quienes tienen más frío, lisas o estampadas para darle estilo a un conjunto… Las camisetas están disponibles en una variedad de colores, estilos y diseños."
+    },
+    "catalogue": {
+        "etiquetteFiltre": "Filtrar por tema: ",
+        "tousProduits": "Todos los productos",
+        "etiquetteTri": "Ordenar por: ",
+        "aleatoire": "Aleatorio",
+        "dacDesc": "Novedades",
+        "prixAsc": "Precio / ascendente",
+        "prixDesc": "Precio / descendente",
+        "nomAsc": "Alfabético / ascendente",
+        "nomDesc": "Alfabético / descendente",
+        "ventesDesc": "Más vendidos"
+    },
+    "teeshirts": {
+        "metaTitre": "TeeTIM - Nuestras camisetas",
+        "metaDesc": "Descripción próximamente para la página de camisetas...",
+        "titrePage": "Nuestras camisetas",
+        "enConstruction": "Próximamente..."
+    },
+    "casquettes": {
+        "metaTitre": "TeeTIM - Nuestras gorras",
+        "metaDesc": "Descripción próximamente para la página de gorras...",
+        "titrePage": "Nuestras gorras",
+        "enConstruction": "Próximamente..."
+    },
+    "hoodies": {
+        "metaTitre": "TeeTIM - Nuestras sudaderas",
+        "metaDesc": "Descripción próximamente para la página de sudaderas...",
+        "titrePage": "Nuestras sudaderas",
+        "enConstruction": "Próximamente..."
+    },
+    "aide": {
+        "metaTitre": "TeeTIM - Ayuda",
+        "metaDesc": "Descripción próximamente para la página de ayuda...",
+        "titrePage": "Ayuda",
+        "enConstruction": "Próximamente..."
+    },
+    "apropos": {
+        "metaTitre": "TeeTIM - Sobre nosotros",
+        "metaDesc": "Descripción próximamente para la página sobre nosotros...",
+        "titrePage": "Sobre nosotros",
+        "enConstruction": "Próximamente..."
+    },
+    "panier": {
+        "metaTitre": "TeeTIM - Carrito de compras",
+        "metaDesc": "Consulta los artículos de tu carrito de compras.",
+        "titrePage": "Tu carrito de compras",
+        "totalArticles": "Total de artículos",
+        "sousTotal": "Subtotal",
+        "commander": "Finalizar pedido"
+    }
+}
